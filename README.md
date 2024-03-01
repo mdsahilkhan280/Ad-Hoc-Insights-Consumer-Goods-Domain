@@ -1,19 +1,18 @@
 # Ad-Hoc-Insights-Consumer-Goods-Domain
-**𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:**
 
-In this endeavor, I took a closer look at Atliq Hardware, a fictional leader in computer hardware. The challenge was to empower the management with valuable insights using MySQL.
+##  Project Overview
 
+This repository contains the code and SQL queries used for the Consumer Goods domain part of the Data Analytics Bootcamp at Codebasics. In this project, I will be working with a dataset related to consumer goods. The goal is to answer ten specific ad hoc requests using SQL queries. The data used in this project belongs to "AtliQ Hardwares", a leading hardware company specializing in PCs, printers, mice, and computers with a global reach.
+ 
+## Project Structure
 
-**𝗧𝗼𝗼𝗹𝘀 & 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:**
+1. **SQL Files:** The SQL queries for each of the ten ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
 
-I harnessed MySQL, navigating through concepts like Joins, CTEs, Subqueries, and more. PowerBI helped visualize the data.
+2. **Project Presentation Files:**  This ppt file contains the presentation of this  project.
 
-
-**𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 & 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀:**
-
-Unveiling crucial metrics - from Gross Profit to Average Manufacturing Cost - paved the way for strategic solutions. I proposed boosting production rates through enticing strategies like memberships, gift certificates, bundled deals, student discounts, and more.
-
-
-**𝗪𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗟𝗲𝗮𝗿𝗻𝗲𝗱:**
-
-This project honed my skills in SQL, providing hands-on experience with real-world data. I mastered the art of transforming raw information into actionable insights, a skill crucial in the dynamic landscape of data analytics.
+##  Skills Learnt
+1. SQL Query Writing using CTE,rank,joins, date functions,sub-queries,numeric functions etc.
+2. Data Extraction and Transformation
+3. Data Analysis and Interpretation
+4. Report Generation
+5. Problem Solving and Decision Making
